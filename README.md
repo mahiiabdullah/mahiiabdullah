@@ -66,14 +66,31 @@ Welcome to my digital workspace! I am a passionate software developer focused on
 
 <br />
 
-## 🚀 Featured Projects
+## 🚀 Popular Repositories
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Expense Manage** | A simple app to keep and track daily earnings and expenses with interactive charts and category icons. | Dart, Flutter | [🔗 View Repo](https://github.com/mahiiabdullah/Expense_Manage) |
-| **Smartbot Chatbot** | A modern chatbot application with a robust Python Flask backend and a seamless Flutter mobile frontend. | Python, Flask, Flutter | [🔗 View Repo](https://github.com/mahiiabdullah/smartbot-chatbot) |
-| **DataViz Project** | Data visualization project focusing on structured problem-solving, algorithms, and efficiency. | C++ | [🔗 View Repo](https://github.com/mahiiabdullah/DataViz-Project) |
-| **KiSti** | A modern, full-stack Bengali literary platform designed with a premium UI and dark mode. | Next.js, Tailwind | [🔗 View Repo](#) |
+<div align="center">
+  <a href="https://github.com/mahiiabdullah/mahiiabdullah.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=mahiiabdullah.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  </a>
+  <a href="https://github.com/mahiiabdullah/smartbot-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=smartbot-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/mahiiabdullah/Expense_Manage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=Expense_Manage&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  </a>
+  <a href="https://github.com/mahiiabdullah/DataViz-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=DataViz-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  </a>
+</div>
+
+<br />
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38B2AC/mahiiabdullah" alt="mahiiabdullah's Github chart" width="100%" />
+</div>
 
 <br />
 
@@ -88,8 +105,6 @@ Welcome to my digital workspace! I am a passionate software developer focused on
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiabdullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahiiabdullah&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="98%" />
 </div>
 
 <br />
