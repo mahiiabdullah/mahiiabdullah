@@ -12,13 +12,13 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/mahi-abdullah-151599202/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:YOUR_EMAIL@domain.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://your-portfolio-website.com" target="_blank">
+    <a href="https://mahiiabdullah.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
