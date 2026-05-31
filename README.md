@@ -37,33 +37,7 @@ Welcome to my digital workspace! I am a passionate software developer focused on
 
 
 
-## 🚀 Popular Repositories
 
-<div align="center">
-  <a href="https://github.com/mahiiabdullah/mahiiabdullah.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=mahiiabdullah.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/mahiiabdullah/smartbot-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=smartbot-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <br/>
-  <a href="https://github.com/mahiiabdullah/Expense_Manage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=Expense_Manage&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/mahiiabdullah/DataViz-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahiiabdullah&repo=DataViz-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-</div>
-
-<br />
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38B2AC/mahiiabdullah" alt="mahiiabdullah's Github chart" width="100%" />
-</div>
-
-<br />
 
 ## 📊 GitHub Analytics
 
