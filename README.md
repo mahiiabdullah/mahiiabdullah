@@ -24,7 +24,7 @@ Welcome to my digital workspace! I am a passionate software developer focused on
 ## 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiiabdullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiiabdullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiiabdullah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
