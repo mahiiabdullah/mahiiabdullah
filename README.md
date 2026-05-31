@@ -25,11 +25,17 @@ A passionate software developer focused on solving complex problems and translat
 
 ---
 
-### 📊 GitHub Statistics
+## 📅 Daily Stack
+<!--START_SECTION:daily-stack-->
+> No code pushed today yet! Taking a break or working secretly. 🤫
+<!--END_SECTION:daily-stack-->
 
-- **Total Contributions (This Year):** <!-- CONTRIBS_YEAR -->14<!-- /CONTRIBS_YEAR -->
-- **Total Contributions (This Month):** <!-- CONTRIBS_MONTH -->14<!-- /CONTRIBS_MONTH -->
+## 🔥 Max Stack
+<!--START_SECTION:max-stack-->
+1. ⚙️ C++
+2. ⚙️ C
+3. 🎯 Dart
+4. 🐍 Python
+5. 🎨 CSS
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiabdullah&layout=compact&theme=radical" alt="Most Used Stack" />
-</div>
+<!--END_SECTION:max-stack-->

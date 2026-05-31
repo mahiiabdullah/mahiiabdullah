@@ -1,4 +1,4 @@
-name: Update Commit Stats
+name: Update Daily and Max Stack
 
 on:
   schedule:
@@ -11,18 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          python-version: '3.10'
+          node-version: '18' # Node 18+ has native fetch
 
-      - name: Update README with commit stats
-        run: python update_stats.py
+      - name: Update README with Stack Stats
+        run: node update-stack.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Update commit stats [skip ci]" || exit 0
+          git commit -m "Update Daily and Max Stack [skip ci]" || exit 0
           git push
