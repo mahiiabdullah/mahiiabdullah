@@ -30,7 +30,6 @@ A passionate software developer focused on solving complex problems and translat
 - **Total Contributions (This Year):** <!-- CONTRIBS_YEAR -->14<!-- /CONTRIBS_YEAR -->
 - **Total Contributions (This Month):** <!-- CONTRIBS_MONTH -->14<!-- /CONTRIBS_MONTH -->
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiiabdullah&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiabdullah&layout=compact&hide_border=true&theme=default" alt="Most Used Stack / Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiabdullah&layout=compact&theme=radical" alt="Most Used Stack" />
 </div>
